@@ -47,7 +47,7 @@ public class D1 {
 
 	private static void delet() {
 		
-		System.out.println("SK");
+		System.out.println("SK12");
 		
 	}
 	}
